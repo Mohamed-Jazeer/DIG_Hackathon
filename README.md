@@ -1,7 +1,5 @@
 # DIG_Hackathon
 
-# GOAL
-
 The aim of the Hackathon is to allow participants to flex their Python skills as well as creativity. In this Hackathon, the objective will be to programme code and draw meaningful conclusion using real time data of Diabetes affceted women.
 
 # PROBLEM STATEMENT
